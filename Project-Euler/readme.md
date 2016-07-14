@@ -3,8 +3,8 @@ ACM ICPC University of Tabriz Training
 
 Problems Answer:
     
-    1.
-    2.
+    1. 233168
+    2. 4613732
     3.
     4.
     5.

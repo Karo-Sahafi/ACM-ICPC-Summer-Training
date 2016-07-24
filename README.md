@@ -18,5 +18,3 @@ http://uva.onlinejudge.org/external/111/11100.pdf
 http://uva.onlinejudge.org/external/112/11235.pdf
 
 http://uva.onlinejudge.org/external/115/11503.pdf
-
-http://uva.onlinejudge.org/external/119/11906.pdf

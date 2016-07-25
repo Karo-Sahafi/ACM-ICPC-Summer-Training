@@ -9,8 +9,6 @@ http://uva.onlinejudge.org/external/101/10152.pdf
 
 http://uva.onlinejudge.org/external/103/10341.pdf
 
-http://uva.onlinejudge.org/external/108/10827.pdf
-
 http://uva.onlinejudge.org/external/111/11100.pdf
 
 http://uva.onlinejudge.org/external/112/11235.pdf

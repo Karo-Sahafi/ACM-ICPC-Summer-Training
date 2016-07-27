@@ -3,11 +3,7 @@ ACM ICPC University of Tabriz Training
 
 Problems Link:
 
-http://uva.onlinejudge.org/external/4/429.pdf
-
 http://uva.onlinejudge.org/external/101/10152.pdf
-
-http://uva.onlinejudge.org/external/103/10341.pdf
 
 http://uva.onlinejudge.org/external/111/11100.pdf
 

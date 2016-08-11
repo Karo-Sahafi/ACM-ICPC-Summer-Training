@@ -31,12 +31,6 @@ new
 
 http://uva.onlinejudge.org/external/1/183.pdf
 
-http://uva.onlinejudge.org/external/122/12210.pdf
-
 http://uva.onlinejudge.org/external/112/11242.pdf
-
-http://uva.onlinejudge.org/external/124/12405.pdf
-
-http://uva.onlinejudge.org/external/106/10684.pdf
 
 http://uva.onlinejudge.org/external/1/108.pdf

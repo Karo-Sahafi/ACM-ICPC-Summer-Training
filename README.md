@@ -1,17 +1,19 @@
 # ACM-ICPC-Summer-Training
 ACM ICPC University of Tabriz Training
 
-## Solve List
+## Rank List
 
-| Rank  | Name of Contesters  | Uva   | Euler | Solved |
-| ----- | ------------------- | ----- | ----- | ------ |
-| 1     | Adel                | `25`  | 0     | 25     |
-| 2     | Mehdi               | `7`   | 0     | 7      |
-| 3     | Arman               | `3`   | 5     | 8      |
-| 4     | Maral               | `2`   | 5     | 7      |
-| 5     | Aslan               | `1`   | 0     | 1      |
-| 5     | Pharaz              | `1`   | 0     | 1      |
-| 7     | Farzad              | `0`   | 1     | 1      |
+| Rank  | Name of Contesters  | Uva | Euler | Solved |
+| ----- | ------------------- | --- | ----- | ------ |
+| 1     | Adel                | 25  | 0     | 25     |
+| 2     | Mehdi               | 7   | 0     | 7      |
+| 3     | Arman               | 3   | 5     | 8      |
+| 4     | Maral               | 2   | 5     | 7      |
+| 5     | Aslan               | 1   | 0     | 1      |
+| 5     | Pharaz              | 1   | 0     | 1      |
+| 7     | Farzad              | 0   | 1     | 1      |
+
+Rank by Uva Problems
 
 ## Old Problems
 

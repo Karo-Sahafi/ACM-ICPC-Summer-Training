@@ -1,7 +1,7 @@
 # ACM-ICPC-Summer-Training
 ACM ICPC University of Tabriz Training
 
-Problems Link:
+## Old Problems
 
 http://uva.onlinejudge.org/external/1/183.pdf
 
@@ -15,7 +15,7 @@ http://uva.onlinejudge.org/external/118/11889.pdf
 
 http://uva.onlinejudge.org/external/110/11069.pdf
 
-# New
+## New Problems
 
 http://uva.onlinejudge.org/external/112/11212.pdf
 

@@ -3,13 +3,13 @@ ACM ICPC University of Tabriz Training
 
 ## Solve List
 
-| Rank  | Are           | Solved |
-| ----- | ------------- | ------ |
-| 1     | Adel          | 25     |
-| 2     | Mehdi         | 7      |
-| 3     | Arman         | 3      |
-| 4     | Maral         | 2      |
-| 5     | Pharaz        | 1      |
+| Rank  | Name of Contesters  | Solved |
+| ----- | ------------------- | ------ |
+| 1     | Adel                | 25     |
+| 2     | Mehdi               | 7      |
+| 3     | Arman               | 3      |
+| 4     | Maral               | 2      |
+| 5     | Pharaz              | 1      |
 
 ## Old Problems
 

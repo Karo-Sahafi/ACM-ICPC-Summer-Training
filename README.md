@@ -3,14 +3,14 @@ ACM ICPC University of Tabriz Training
 
 ## Solve List
 
-| Rank  | Name of Contesters  | Uva | P Euler | Solved |
-| ----- | ------------------- | --- | ------- | ------ |
-| 1     | Adel                | 25  | 0       | 25     |
-| 2     | Mehdi               | 7   | 0       | 7      |
-| 3     | Arman               | 3   | 4       | 7      |
-| 4     | Maral               | 2   | 5       | 7      |
-| 5     | Pharaz              | 0   | 1       | 1      |
-| 6     | Farzad              | 1   | 0       | 1      |
+| Rank  | Name of Contesters  | Uva   | Euler | Solved |
+| ----- | ------------------- | ----- | ----- | ------ |
+| 1     | Adel                | `25`  | 0     | 25     |
+| 2     | Mehdi               | `7`   | 0     | 7      |
+| 3     | Arman               | `3`   | 4     | 7      |
+| 4     | Maral               | `2`   | 5     | 7      |
+| 5     | Pharaz              | `1`   | 0     | 1      |
+| 6     | Farzad              | `0`   | 1     | 1      |
 
 ## Old Problems
 

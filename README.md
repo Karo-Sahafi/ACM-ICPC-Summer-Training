@@ -7,10 +7,11 @@ ACM ICPC University of Tabriz Training
 | ----- | ------------------- | ----- | ----- | ------ |
 | 1     | Adel                | `25`  | 0     | 25     |
 | 2     | Mehdi               | `7`   | 0     | 7      |
-| 3     | Arman               | `3`   | 4     | 7      |
+| 3     | Arman               | `3`   | 5     | 8      |
 | 4     | Maral               | `2`   | 5     | 7      |
+| 5     | Aslan               | `1`   | 0     | 1      |
 | 5     | Pharaz              | `1`   | 0     | 1      |
-| 6     | Farzad              | `0`   | 1     | 1      |
+| 7     | Farzad              | `0`   | 1     | 1      |
 
 ## Old Problems
 

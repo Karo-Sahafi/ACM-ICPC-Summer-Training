@@ -5,7 +5,7 @@ ACM ICPC University of Tabriz Training
 
 | Rank  | Name of Contesters  | Uva | Euler | Solved |
 | ----- | ------------------- | --- | ----- | ------ |
-| 1     | Adel                | 25  | 0     | 25     |
+| 1     | Adel                | 28  | 0     | 28     |
 | 2     | Mehdi               | 7   | 0     | 7      |
 | 3     | Arman               | 3   | 5     | 8      |
 | 4     | Maral               | 2   | 5     | 7      |
@@ -39,10 +39,6 @@ http://uva.onlinejudge.org/external/119/11997.pdf
 
 http://uva.onlinejudge.org/external/119/11987.pdf
 
-http://uva.onlinejudge.org/external/124/12416.pdf
-
-http://uva.onlinejudge.org/external/124/12414.pdf
-
 http://uva.onlinejudge.org/external/1/116.pdf
 
 http://uva.onlinejudge.org/external/102/10271.pdf
@@ -52,8 +48,6 @@ http://uva.onlinejudge.org/external/101/10131.pdf
 http://uva.onlinejudge.org/external/100/10069.pdf
 
 http://uva.onlinejudge.org/external/101/10154.pdf
-
-http://uva.onlinejudge.org/external/101/10161.pdf
 
 http://uva.onlinejudge.org/external/100/10047.pdf
 
